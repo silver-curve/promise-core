@@ -52,7 +52,7 @@
     "gulp-mocha": "~2.2.0",
     "node-version": "~1.0.0",
     "publish-please": "~2.1.4",
-    "request": "^2.34.0",
+    "request": "silver-curve/request#use_temp_aws-sign",
     "rimraf": "~2.5.3",
     "run-sequence": "~1.2.2",
     "stealthy-require": "~1.0.0"
