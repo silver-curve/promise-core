@@ -36,7 +36,7 @@
     "lodash": "^4.13.1"
   },
   "peerDependencies": {
-    "request": "^2.34"
+    "request": "silver-curve/request#use_temp_aws-sign"
   },
   "devDependencies": {
     "@request/api": "^0.6.0",
